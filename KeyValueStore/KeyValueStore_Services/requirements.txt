@@ -1,0 +1,5 @@
+Flask==0.10.1
+python-etcd
+jsonpickle
+flask_restplus
+dependency-injector
